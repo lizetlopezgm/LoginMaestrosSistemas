@@ -1,0 +1,60 @@
+/*
+      Integrantes del equipo:
+      Nombre: Jesús Rosiles González, num. control: s22120176
+      Nombre: Lizet Guadalupe López Medina, num. control: s22120170
+*/
+
+.toggleButton {
+  margin-right: 15px;
+  margin-left: 15px;
+}
+.toggleButton:first-of-type {
+  margin-left: 0;
+}
+.toggleButton:last-of-type {
+  margin-right: 0;
+}
+#toggle-button-aula {
+  width: fit-content;
+}
+.contenedor {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  margin: 0;
+}
+.info {
+  height: auto;
+  background-color: #f0f0f0;
+  border-radius: 15px;
+  align-content: center;
+  justify-content: center;
+  width: auto;
+  padding-left: 35px;
+  padding-right: 35px;
+}
+.infoRegistro {
+  height: auto;
+  background-color: #f0f0f0;
+  max-width: fit-content;
+  min-width: 85%;
+  align-content: center;
+  justify-content: center;
+  border-radius: 15px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.Acceso,
+.Registro {
+  background-color: #1b396a;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}

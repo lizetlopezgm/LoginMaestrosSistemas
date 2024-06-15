@@ -1,0 +1,22 @@
+/*
+      Integrantes del equipo:
+      Nombre: Jesús Rosiles González, num. control: s22120176
+      Nombre: Lizet Guadalupe López Medina, num. control: s22120170
+*/
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.Banner {
+  padding: 1.5rem;
+  padding: 0px;
+  height: 160px;
+  align-content: center;
+}
+
+#TECNM {
+  width: 300px; /* Ajusta el ancho según lo que necesites */
+  height: auto; /* La altura se ajustará automáticamente para mantener la proporción */
+}
